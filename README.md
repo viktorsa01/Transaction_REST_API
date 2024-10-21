@@ -1,2 +1,2 @@
 # Transaction_REST_API
-Simple api for makking transactions between bank accounts. 
+Simple api for making transactions between bank accounts. 
